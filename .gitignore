@@ -142,4 +142,9 @@ vite.config.ts.timestamp-*
 
 build/
 
+# Next.js
+.next/
+out/
+next-env.d.ts
+
 .cursor/mcp.json
